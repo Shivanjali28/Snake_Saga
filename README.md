@@ -11,4 +11,4 @@ You can play the game live at [Demo Link](https://snakegamebyshivanjali.netlify.
 - Score tracking.
 - HiScore record.
 - Game over screen.
--Sound effects for eating food, game over, and movement.
+- Sound effects for eating food, game over, and movement.
